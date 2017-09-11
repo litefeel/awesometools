@@ -34,9 +34,13 @@
 
 #### 开发工具
 
--[dotPeek](https://www.jetbrains.com/decompiler/)  
+- [dotPeek](https://www.jetbrains.com/decompiler/)  
 免费的.NET反编译工具
 
+#### 在线工具
+
+- [regex101](https://regex101.com/)
+- [regexpal](https://www.regexpal.com/)
 
 
 #### 资源下载
