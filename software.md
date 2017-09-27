@@ -36,6 +36,8 @@
 
 - [dotPeek](https://www.jetbrains.com/decompiler/)  
 免费的.NET反编译工具
+- [Stud_PE](http://www.cgsoftlabs.ro/studpe.html)  
+The Portable Executables Viewer/Editor, EXE文件查看器
 
 #### 在线工具
 
