@@ -19,6 +19,9 @@
 - [Mouse Without Borders](https://www.microsoft.com/en-us/garage/project-details.aspx?project=mouse-without-borders)  
 一套鼠标键盘共享给多个电脑，微软出品，仅支持Windows
 
+- [Beyond Compare 4](https://www.scootersoftware.com/download.php)  
+文件、目录比较工具
+
 
 #### 文本编辑器
 
