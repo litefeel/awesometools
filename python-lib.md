@@ -17,3 +17,9 @@ yaml库
 
 - [polib](http://polib.readthedocs.io/en/latest/index.html)  
 国际化语言库，方便操作 .po .mo
+
+- [slimit](http://slimit.readthedocs.io)  
+python版的js解析器
+
+- [matplotlib](https://matplotlib.org/)  
+仿matlab的数据绘图工具，超强大
