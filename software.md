@@ -55,6 +55,12 @@ The Portable Executables Viewer/Editor, EXE文件查看器
 - [material](https://material.io/)  
 扁平化设计，颜色及工具
 
+- [shuxuelie](https://www.shuxuele.com/index.html)  
+数学乐,轻松愉快的学习数学(几何,高数,钱,代数,微积分,物理,测量)
+
+- [mathsisfun](https://www.mathsisfun.com/)  
+数学乐的英文版,包含的内容更多
+
 #### 资源下载
 
 - [color-themes](http://color-themes.com)  
