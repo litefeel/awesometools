@@ -22,6 +22,8 @@
 - [Beyond Compare 4](https://www.scootersoftware.com/download.php)  
 文件、目录比较工具
 
+- [GanttProject](https://github.com/bardsoftware/ganttproject)  
+免费开源的甘特图项目管理软件
 
 #### 文本编辑器
 
