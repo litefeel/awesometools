@@ -23,3 +23,6 @@ python版的js解析器
 
 - [matplotlib](https://matplotlib.org/)  
 仿matlab的数据绘图工具，超强大
+
+- [tqdm](https://github.com/tqdm/tqdm)  
+在命令行中方便的显示进度条
