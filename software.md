@@ -25,6 +25,9 @@
 - [GanttProject](https://github.com/bardsoftware/ganttproject)  
 免费开源的甘特图项目管理软件
 
+- [Setuna2]  
+好用的截屏工具，官网已丢失
+
 #### 文本编辑器
 
 - [SublimeText](http://www.sublimetext.com/)  
