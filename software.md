@@ -25,13 +25,14 @@
 - [GanttProject](https://github.com/bardsoftware/ganttproject)  
 免费开源的甘特图项目管理软件
 
-- [Setuna2]  
-好用的截屏工具，官网已丢失
+- [snipaste](https://zh.snipaste.com/)  
+免费好用的截屏工具
 
 #### 文本编辑器
 
-- [SublimeText](http://www.sublimetext.com/)  
-- [Notepad++](https://notepad-plus-plus.org/)  
+- [SublimeText](http://www.sublimetext.com/)
+- [Notepad++](https://notepad-plus-plus.org/)
+- [VSCode](https://code.visualstudio.com/)
 
 
 #### 版本控制工具
