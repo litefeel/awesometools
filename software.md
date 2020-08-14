@@ -28,6 +28,9 @@
 - [snipaste](https://zh.snipaste.com/)  
 免费好用的截屏工具
 
+- [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/download.html)
+免费的磁盘空间查看工具
+
 #### 文本编辑器
 
 - [SublimeText](http://www.sublimetext.com/)
@@ -79,5 +82,4 @@ Color themes for IntelliJ IDEA, Webstorm, PyCharm, RubyMine, PhpStorm and AppCod
 GitHub自己的图标
 - [iconion](http://iconion.com/)  
 跨平台图标制作工具，可以将多个图标组合在一起
-
 
