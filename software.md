@@ -83,3 +83,10 @@ GitHub自己的图标
 - [iconion](http://iconion.com/)  
 跨平台图标制作工具，可以将多个图标组合在一起
 
+
+#### 限速工具
+
+- [clumsy](http://jagt.github.io/clumsy/)  
+https://github.com/jagt/clumsy  
+支持Win10的免费限速工具
+
